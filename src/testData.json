@@ -1,0 +1,264 @@
+{
+  "account": {
+    "name": "MyLoan",
+    "interestRate": 0.17,
+    "limit": 1000.0,
+    "startDate": "2022-06-07",
+    "cycleInterval": "monthly",
+    "monthlyFee": 20.0,
+    "transactions": [
+      {
+        "date": "2022-06-08T09:00:00+10:00",
+        "channel": "disbursement",
+        "status": "posted",
+        "description": "cash disbursement",
+        "amount": 500.0
+      },
+      {
+        "date": "2022-07-08T06:00:00+10:00",
+        "channel": "interest",
+        "status": "applied",
+        "description": "interest",
+        "amount": 7.08
+      },
+      {
+        "date": "2022-07-08T06:30:00+10:00",
+        "channel": "monthly fee",
+        "status": "applied",
+        "description": "monthly fee",
+        "amount": 20.0
+      },
+      {
+        "date": "2022-07-09T09:00:00+10:00",
+        "channel": "repayment",
+        "status": "cleared",
+        "description": "loan repayment for my loan",
+        "amount": 250.0
+      },
+      {
+        "date": "2022-08-02T09:00:00+10:00",
+        "channel": "disbursement",
+        "status": "posted",
+        "description": "cash disbursement",
+        "amount": 125.0
+      },
+      {
+        "date": "2022-08-08T06:00:00+10:00",
+        "channel": "interest",
+        "status": "applied",
+        "description": "interest",
+        "amount": 5.7
+      },
+      {
+        "date": "2022-08-08T06:30:00+10:00",
+        "channel": "monthly fee",
+        "status": "applied",
+        "description": "monthly fee",
+        "amount": 20
+      },
+      {
+        "date": "2022-08-09T09:00:00+10:00",
+        "channel": "repayment",
+        "status": "cleared",
+        "description": "loan repayment for my loan",
+        "amount": 250.0
+      },
+      {
+        "date": "2022-08-22T09:00:00+10:00",
+        "channel": "disbursement",
+        "status": "posted",
+        "description": "cash disbursement",
+        "amount": 25.0
+      },
+      {
+        "date": "2022-06-08T09:00:00+10:00",
+        "channel": "disbursement",
+        "status": "posted",
+        "description": "cash disbursement",
+        "amount": 500.0
+      },
+      {
+        "date": "2022-07-08T06:00:00+10:00",
+        "channel": "interest",
+        "status": "applied",
+        "description": "interest",
+        "amount": 7.08
+      },
+      {
+        "date": "2022-07-08T06:30:00+10:00",
+        "channel": "monthly fee",
+        "status": "applied",
+        "description": "monthly fee",
+        "amount": 20.0
+      },
+      {
+        "date": "2022-07-09T09:00:00+10:00",
+        "channel": "repayment",
+        "status": "cleared",
+        "description": "loan repayment for my loan",
+        "amount": 250.0
+      },
+      {
+        "date": "2022-08-02T09:00:00+10:00",
+        "channel": "disbursement",
+        "status": "posted",
+        "description": "cash disbursement",
+        "amount": 125.0
+      },
+      {
+        "date": "2022-08-08T06:00:00+10:00",
+        "channel": "interest",
+        "status": "applied",
+        "description": "interest",
+        "amount": 5.7
+      },
+      {
+        "date": "2022-08-08T06:30:00+10:00",
+        "channel": "monthly fee",
+        "status": "applied",
+        "description": "monthly fee",
+        "amount": 20
+      },
+      {
+        "date": "2022-08-09T09:00:00+10:00",
+        "channel": "repayment",
+        "status": "cleared",
+        "description": "loan repayment for my loan",
+        "amount": 250.0
+      },
+      {
+        "date": "2022-08-22T09:00:00+10:00",
+        "channel": "disbursement",
+        "status": "posted",
+        "description": "cash disbursement",
+        "amount": 25.0
+      },
+      {
+        "date": "2022-06-08T09:00:00+10:00",
+        "channel": "disbursement",
+        "status": "posted",
+        "description": "cash disbursement",
+        "amount": 500.0
+      },
+      {
+        "date": "2022-07-08T06:00:00+10:00",
+        "channel": "interest",
+        "status": "applied",
+        "description": "interest",
+        "amount": 7.08
+      },
+      {
+        "date": "2022-07-08T06:30:00+10:00",
+        "channel": "monthly fee",
+        "status": "applied",
+        "description": "monthly fee",
+        "amount": 20.0
+      },
+      {
+        "date": "2022-07-09T09:00:00+10:00",
+        "channel": "repayment",
+        "status": "cleared",
+        "description": "loan repayment for my loan",
+        "amount": 250.0
+      },
+      {
+        "date": "2022-08-02T09:00:00+10:00",
+        "channel": "disbursement",
+        "status": "posted",
+        "description": "cash disbursement",
+        "amount": 125.0
+      },
+      {
+        "date": "2022-08-08T06:00:00+10:00",
+        "channel": "interest",
+        "status": "applied",
+        "description": "interest",
+        "amount": 5.7
+      },
+      {
+        "date": "2022-08-08T06:30:00+10:00",
+        "channel": "monthly fee",
+        "status": "applied",
+        "description": "monthly fee",
+        "amount": 20
+      },
+      {
+        "date": "2022-08-09T09:00:00+10:00",
+        "channel": "repayment",
+        "status": "cleared",
+        "description": "loan repayment for my loan",
+        "amount": 250.0
+      },
+      {
+        "date": "2022-08-22T09:00:00+10:00",
+        "channel": "disbursement",
+        "status": "posted",
+        "description": "cash disbursement",
+        "amount": 25.0
+      },
+      {
+        "date": "2022-06-08T09:00:00+10:00",
+        "channel": "disbursement",
+        "status": "posted",
+        "description": "cash disbursement",
+        "amount": 500.0
+      },
+      {
+        "date": "2022-07-08T06:00:00+10:00",
+        "channel": "interest",
+        "status": "applied",
+        "description": "interest",
+        "amount": 7.08
+      },
+      {
+        "date": "2022-07-08T06:30:00+10:00",
+        "channel": "monthly fee",
+        "status": "applied",
+        "description": "monthly fee",
+        "amount": 20.0
+      },
+      {
+        "date": "2022-07-09T09:00:00+10:00",
+        "channel": "repayment",
+        "status": "cleared",
+        "description": "loan repayment for my loan",
+        "amount": 250.0
+      },
+      {
+        "date": "2022-08-02T09:00:00+10:00",
+        "channel": "disbursement",
+        "status": "posted",
+        "description": "cash disbursement",
+        "amount": 125.0
+      },
+      {
+        "date": "2022-08-08T06:00:00+10:00",
+        "channel": "interest",
+        "status": "applied",
+        "description": "interest",
+        "amount": 5.7
+      },
+      {
+        "date": "2022-08-08T06:30:00+10:00",
+        "channel": "monthly fee",
+        "status": "applied",
+        "description": "monthly fee",
+        "amount": 20
+      },
+      {
+        "date": "2022-08-09T09:00:00+10:00",
+        "channel": "repayment",
+        "status": "cleared",
+        "description": "loan repayment for my loan",
+        "amount": 250.0
+      },
+      {
+        "date": "2022-08-22T09:00:00+10:00",
+        "channel": "disbursement",
+        "status": "posted",
+        "description": "cash disbursement",
+        "amount": 25.0
+      }
+    ]
+  }
+}
